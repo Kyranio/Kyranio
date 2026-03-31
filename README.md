@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kyranio
 - 👀 I’m interested in Video games, software and all things computer
-- 🖥️ I work at a Dutch software company called [ViaData](www.viadata.nl)
-- 🌐 Visit [my little place on the web](www.kyran.io)
+- 🖥️ I work at a Dutch software company called [ViaData](https://www.viadata.nl/)
+- 🌐 Visit [my little place on the web](https://www.kyran.io/)
 - 📫 Reach me [via email](mailto:kyran@kyran.io)
