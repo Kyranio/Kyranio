@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kyranio
 - 👀 I’m interested in Video games, software and all things computer
-- 🌱 I’m currently learning software engineering!
-- 📫 How to reach me: www.kyran.io
+- 🖥️ I work at a Dutch software company called ViaData: www.viadata.nl
+- 🌐 Visit my little spot on the web: www.kyran.io
+- 📫 Reach me at kyran@kyran.io
 
 <!---
 Kyranio/Kyranio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
